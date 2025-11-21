@@ -178,7 +178,7 @@ const Works = () => {
         })}
       </div>
 
-      {/* <div className="mt-20 flex flex-wrap gap-7">
+ <div className="mt-20 flex flex-wrap gap-7">
         {data.map((project, index) => {
           return (
             <motion.div
